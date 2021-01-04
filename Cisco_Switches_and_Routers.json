@@ -1072,7 +1072,7 @@
             },
             "source_field": {
               "@type": "string",
-              "@value": "full_message"
+              "@value": "message"
             },
             "title": {
               "@type": "string",
